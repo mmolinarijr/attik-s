@@ -1,2 +1,7 @@
-# Attik-S
-Server side for Attik's app
+# Attik
+Server side repo for Attik's app
+
+** Technology:
+
+- NodeJS
+- Express
