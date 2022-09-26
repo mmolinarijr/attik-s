@@ -1,7 +1,7 @@
 {
   "name": "attik-s",
   "version": "0.0.1",
-  "description": "Server side repo for Attik's app",
+  "description": "Server side for Attik's app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -5,3 +5,5 @@ Server side repo for Attik's app
 
 - NodeJS
 - Express
+- Mongo DB
+- Moongose
